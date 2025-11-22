@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=""D:\for my famliy\me\logo code.png"" width="55%" alt="Hello" />
+<img src="header2.png" width="100%" alt="Header Image" />
 
 # 👋 Hi, I'm **Mohammed Alharbi**
 ### 💻 Web Developer | .NET & Front-End
