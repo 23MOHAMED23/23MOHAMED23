@@ -12,61 +12,66 @@ Building clean, modern, and scalable web applications.
 ---
 
 ## 🚀 About Me
-I'm Mohammed Alharbi, a web developer passionate about creating practical, user-focused digital solutions.  
-I specialize in **ASP.NET Core**, **C#**, **SQL Server**, and front-end development using **HTML**, **CSS**, **Tailwind CSS**, and **JavaScript**.
-
-I love improving code quality, learning new technologies, and working on systems that make life easier for users.
+I’m a recent Computer Information Systems graduate passionate about building modern, efficient web applications. I enjoy working on web development, and I’m always looking to improve my skills and learn new technologies.
+Alongside web development, I also have a strong interest in data analysis and UI/UX design, as I enjoy turning data into meaningful insights and creating user-friendly, intuitive interfaces.
+I’m motivated, detail-oriented, and always eager to take on challenges that help me grow as a developer.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-**Back-End & Database**
-- C#  
-- ASP.NET Core  
-- SQL Server  
-
-**Front-End**
-- HTML  
-- CSS  
-- Tailwind CSS  
-- JavaScript  
-- React (Basics)
-
-**Other Skills**
-- Git & GitHub  
-- UI/UX Principles  
-- API Integration & CRUD  
-- Database Design  
-- Problem Solving  
-
----
-
-## 📂 Projects  
-*(Will be added soon…)*  
-Here are some of the projects I’m currently working on, and I will be uploading them to GitHub shortly:
- 
-
-Stay tuned 👀
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
-<img src="https://github.com/SP-XD/profile-summary-cards/raw/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32%">
-<img src="https://github.com/SP-XD/profile-summary-cards/raw/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32%">
-<img src="https://github.com/SP-XD/profile-summary-cards/raw/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32%">
+
+### **Back-End & Database**
+<table>
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35"/><br>C#</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="35"/><br>ASP.NET Core</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="35"/><br>SQL Server</td>
+</tr>
+</table>
+
+---
+
+### **Front-End**
+<table>
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/><br>HTML</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/><br>CSS</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/><br>JavaScript</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35"/><br>Tailwind CSS</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/><br>React (Basics)</td>
+</tr>
+</table>
+
+---
+
+### **Other Skills**
+<table>
+ <tr>
+<td><img src="https://skillicons.dev/icons?i=git" width="40"/></td>
+<td><img src="https://skillicons.dev/icons?i=github" width="40"/></td>
+<td><img src="https://skillicons.dev/icons?i=figma" width="40"/></td>
+<td><img src="https://skillicons.dev/icons?i=postman" width="40"/></td>
+  </tr>
+</table>
+
+
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 📂 Projects  
 
+*(Coming soon…)*  
+I will be uploading my current projects shortly. Stay tuned 👀
+
+---
+
+## 🤝 Connect With Me
 - **LinkedIn:** [Mohammed Alharbi](https://linkedin.com/in/mohamed23alharbi)  
 - **Email:** MH.ALHARBI03@gmail.com  
 
 <div align="center">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="35%" />
 </div>
-
