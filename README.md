@@ -45,10 +45,7 @@ I love improving code quality, learning new technologies, and working on systems
 ## 📂 Projects  
 *(Will be added soon…)*  
 Here are some of the projects I’m currently working on, and I will be uploading them to GitHub shortly:
-- Full-Stack Web Projects with ASP.NET Core  
-- Small Front-End UI Projects  
-- Database Applications  
-- Personal tools & learning projects  
+ 
 
 Stay tuned 👀
 
@@ -67,7 +64,7 @@ Stay tuned 👀
 ## 🤝 Connect With Me
 
 - **LinkedIn:** [Mohammed Alharbi](https://linkedin.com/in/mohamed23alharbi)  
-- **Email:** 23moood23@gmail.com  
+- **Email:** MH.ALHARBI03@gmail.com  
 
 <div align="center">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="35%" />
