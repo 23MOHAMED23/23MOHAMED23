@@ -75,10 +75,6 @@ I’m continuously improving my technical skills and exploring new technologies 
 <br>Tailwind CSS
 </td>
 
-<td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/>
-<br>React
-</td>
 
 </tr>
 </table>
@@ -101,10 +97,6 @@ I’m continuously improving my technical skills and exploring new technologies 
 
 <td>
 <img src="https://skillicons.dev/icons?i=figma" width="40"/>
-</td>
-
-<td>
-<img src="https://skillicons.dev/icons?i=postman" width="40"/>
 </td>
 
 </tr>
