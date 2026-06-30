@@ -139,4 +139,6 @@ ASP.NET Core MVC • C# • SQL Server • HTML/CSS/JS • Tailwind CSS
 
 - **LinkedIn:** [Mohammed Alharbi](https://linkedin.com/in/mohamed23alharbi)
 
-- **Email:** MH.ALHARBI03@gmail.com
+- **Email:** MohamedHAlharbi23@gmail.com
+
+- **Portfolio** https://mohamed-protfoilo.netlify.app/
